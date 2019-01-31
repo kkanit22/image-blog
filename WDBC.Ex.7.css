@@ -1,0 +1,16 @@
+img {
+	width:30%;
+	float:left;
+	margin: 1.66%;
+}
+
+p {
+	text-transform: uppercase;
+	font-family: raleway, sans-serif;
+	font-size: 30px;
+	font-weight: 800;
+	margin-left: 1.66%;
+	width: 30%;
+	border-bottom: 4px solid rgb(241, 241, 241, .8);
+	padding-bottom: 20px;
+}
